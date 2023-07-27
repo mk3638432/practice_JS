@@ -1,3 +1,4 @@
+// Phone  Number  and email id format
 const contact = "234567";
 
 function getContact(contact) {
